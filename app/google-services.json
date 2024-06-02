@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "761763150755",
+    "project_id": "appgym-300f9",
+    "storage_bucket": "appgym-300f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761763150755:android:7ec5bb60ceb25aee69f816",
+        "android_client_info": {
+          "package_name": "SRI.USD.DWEF"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9MIsQgXYy2d7awP8Fz5ECx51cqO_j9Wc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761763150755:android:bdfbb1a4b305fafa69f816",
+        "android_client_info": {
+          "package_name": "com.example.appggym"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9MIsQgXYy2d7awP8Fz5ECx51cqO_j9Wc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761763150755:android:290775ae04248eee69f816",
+        "android_client_info": {
+          "package_name": "com.example.myappgym"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9MIsQgXYy2d7awP8Fz5ECx51cqO_j9Wc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
